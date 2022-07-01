@@ -1,2 +1,3 @@
 #  Desafio da Dio 
-Primeiro  repo  sobre Git/ Github
+Primeiro Repositório de Git/GitHub
+Projeto de HTML/CSS
